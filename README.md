@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Starstalker-awe
 - 👀 I’m interested in JS, Python, HTML, CSS, C, Webhooks, and Web Frameworks
 - 🌱 I’m currently learning Express
-- 💞️ I’m looking to collaborate on my messaging app project
+- 💞️ I’m looking to collaborate on Trevorpress, my Node implementation of WordPress (also needs a better name)
 - 📫 How to reach me: Discord - !! S҉҉t̷̀̀a҉̷rs҉ţ̷̧a͜l̷̨͟k̢̡͡e̴r#8184
 - 🧠 Django, Flask, Node
 
