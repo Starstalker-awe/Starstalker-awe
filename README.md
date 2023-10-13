@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Starstalker-awe
-- 👀 I’m interested in JS, Python, HTML, CSS, C, Webhooks, Typescript, and Web Frameworks
-- 🌱 I’m currently building a dental clinic management app
-- 💞️ I’m looking to collaborate on my [messages](https://github.com/Starstalker-awe/messages) repo!
-- 📫 How to reach me: 
-  - Discord - !! S҉҉t̷̀̀a҉̷rs҉ţ̷̧a͜l̷̨͟k̢̡͡e̴r#8184
-  - Quora: [S҉҉t̷̀̀a҉̷rs҉ţ̷̧a͜l̷̨͟k̢̡͡e̴r](https:/quora.com/profile/Star-boo-10)
-  - Google Chat: travelingtrevor1@gmail.com
-- 🧠 Django, Flask, Node, Trading Bots, React
+- 👋 Hi, my name's Trevor, I'm `new Date(new Date() - new Date(2006, 11, 27)).getFullYear() - 1970` years old
+- 😐 I do it all; TSX, Python, SQL, SCSS, C, HTML...
+- 🌱 Building a trading bot from scratch (alpha link soon™️)
+- 💔 Don't wanna collab leave me alone lmao
+- 📫 I do have a lot of socials though
+  - Discord - starstalker_awe
+  - Quora - [S҉҉t̷̀̀a҉̷rs҉ţ̷̧a͜l̷̨͟k̢̡͡e̴r](https:/quora.com/profile/Star-boo-10)
+  - GChat - travelingtrevor1@gmail.com
+  - Snap - [Starstalker-awe](https://snapchat.com/add/starstalker-awe)
+  - Insta - starstalker7
