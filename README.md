@@ -1,7 +1,6 @@
 - 👋 Hi, my name's Trevor, I'm `new Date(new Date() - new Date(2006, 11, 27)).getFullYear() - 1970` years old
 - 😐 I do it all; TSX, Python, SQL, SCSS, C, HTML...
 - 🌱 Building a trading bot from scratch (alpha link soon™️)
-- 💔 Don't wanna collab leave me alone lmao
 - 📫 I do have a lot of socials though
   - Discord - starstalker_awe
   - Quora - [S҉҉t̷̀̀a҉̷rs҉ţ̷̧a͜l̷̨͟k̢̡͡e̴r](https:/quora.com/profile/Star-boo-10)
