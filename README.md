@@ -6,4 +6,4 @@
   - Quora - [S҉҉t̷̀̀a҉̷rs҉ţ̷̧a͜l̷̨͟k̢̡͡e̴r](https:/quora.com/profile/Star-boo-10)
   - GChat - travelingtrevor1@gmail.com
   - Snap - [Starstalker-awe](https://snapchat.com/add/starstalker-awe)
-  - Insta - starstalker7
+  - Insta - starstalkerawe
